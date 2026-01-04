@@ -39,5 +39,5 @@ Which customer segments are most at risk of churning?
 
 What key factors contribute most to customer churn?
 
-https://github.com/rumina23/Customer_Churn_Dashboard/blob/main/churn.png
+Dashboard - https://github.com/rumina23/Customer_Churn_Dashboard/blob/main/churn.png
 
