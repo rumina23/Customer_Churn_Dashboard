@@ -1,6 +1,4 @@
 # Customer_Churn_Dashboard
-https://github.com/rumina23/Customer_Churn_Dashboard/blob/main/churn.png?raw=true
-
 
 Customer Churn calls Usuage
 Dashboard Summary: Customer Churn Analysis
@@ -40,5 +38,6 @@ Which customer segments are most at risk of churning?
 
 What key factors contribute most to customer churn?
 
-https://github.com/rumina23/Customer_Churn_Dashboard/blob/main/churn.png
+![image alt](https://github.com/rumina23/Customer_Churn_Dashboard/blob/9f671b762afa5ee3958105c1e095e0620ff2691b/churn.png)
+
 
