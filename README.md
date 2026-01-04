@@ -9,7 +9,7 @@ Overall churn rate: ~14.5%, indicating that while most customers are retained, a
 
 Retention vs churn: Most customers are retained, but churn is concentrated among high-usage customers and those interacting frequently with customer support.
 
-Customer tenure: Weak correlation with churn—both new and long-term customers may leave, highlighting the importance of continuous service quality.
+Customer tenure: Weak correlation with churn-both new and long-term customers may leave, highlighting the importance of continuous service quality.
 
 Support calls: Customers who churn make significantly more support calls, making it a key early warning indicator.
 
